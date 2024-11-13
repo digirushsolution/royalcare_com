@@ -1,0 +1,100 @@
+.banners_sec {
+    background: url(../images/white-pass-.jpg);
+    background-size: cover;
+   background-position: center;
+}
+.hpls_heaps {
+    text-align: center;
+}
+.thnk-yu h2 {
+    font-size: 36px;
+    font-weight: 600;
+}
+.dsnp-sfcss {
+    padding-left: 10px!important;
+    padding-right: 74px!important;
+}
+.footer_heading p {
+    color: #fff;
+    font-size: 16px;
+    font-family: 'Fira Sans', sans-serif;
+    text-align: justify;
+    line-height: 30px;
+}
+.thnk-yu h2 {
+    font-size: 36px;
+    font-weight: 600;
+}
+.blink {animation: blinker 1.3s linear infinite;}
+a.dssuryawanshi-mob {
+    font-size: 21px;
+    width: 100%;
+    float: left;
+    text-align: center;
+    color: #000;
+    font-weight: 900;
+    text-decoration: none;
+    display: none;
+   font-family: 'Fira Sans', sans-serif;
+}
+.thnk-yu {
+    width: 56%;
+    margin: 10px auto;
+    text-align: center;
+    box-shadow: 0px 0px 2px 1px #ff962a;
+    padding: 15px 0px;
+}
+.thnk-yu h1 {
+    font-size: 28px;
+    font-weight: 500;
+    font-family: 'Fira Sans', sans-serif;
+}
+.thnk-yu p {
+    font-size: 16px;
+    font-family: 'Fira Sans', sans-serif;
+    margin-bottom: 10px;
+    padding: 0px 30px;
+    line-height: 33px;
+    font-weight: 500;
+}
+.thnk-yu p a {
+    font-size: 18px;
+    font-family: 'Fira Sans', sans-serif;
+    text-decoration: none;
+    padding: 5px ;
+    background: #ff9916;
+    color: #fff;
+  
+    font-weight: 500;
+}
+.thnk-yu h2 {
+    font-size: 38px;
+    font-weight: 400;
+    font-family: 'Fira Sans', sans-serif;
+}
+
+.thnk-yu h2 strong {
+    color: #fff;
+    padding: 2px 7px;
+    box-shadow: 0px 0px 2px 1px #093c71;
+    border-radius: 10px;
+    background: #093c71;
+    font-weight: 500;
+}
+.thnk-yu img {
+    width: 50%;
+}
+
+@keyframes blinker {50% {opacity: 0;}}
+
+
+@media screen and (min-device-width: 320px) and (max-device-width: 767px)
+{
+   .dsnp-sfcss {padding-left: 0px!important;padding-right: 0px!important;} 
+    video#myVideo { height: 483px!important;}
+  a.dssuryawanshi-mob {display: block;}  
+  button.navbar-toggler { position: absolute; top: 6px; right: 15px;background: #e50507;}
+  nav.navbar.navbar-expand-lg.navbar-light {z-index: 999999;}
+  .video_panel {padding-top: 116px;}
+    
+}

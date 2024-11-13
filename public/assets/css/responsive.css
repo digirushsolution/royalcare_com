@@ -1,0 +1,635 @@
+
+
+@media only screen and (min-width:1200px){
+    .our_references {
+        min-height: 289px;
+    }
+}
+
+
+@media only screen and (min-width:1120px)and(max-width:1281px){
+    .our_references {
+        height: 40% !important;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+    .tollfree a {
+        display: none;
+    }
+    .bookroom_hotel {
+        padding: 8px 40px 8px 40px !important;
+    }
+    /* section.about_section {
+        padding: 30px 0 !important;
+    } */
+    ul.header_item.icon_heder_p {
+        display: none;
+    }
+    .our_references {
+        min-height: 358px;
+    }
+    .header_icon svg {
+        width: 50px;
+    }
+    .header_text p {
+        color: white;
+        font-size: 11px !important;
+       
+    }
+
+
+   
+
+}
+
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .tollfree a {
+        display: none;
+    }
+    .book_holidays_pack_heading {
+        margin-bottom: 5px !important;
+    }
+    .new_main_responsive {
+        margin-top: 41px;
+    }
+    .our_references {
+        height: 100% !important;
+    }
+    .form_padding_book {
+        width: 50% !important;
+    }
+    ul.header_item ul {
+        padding-left: 0 !important;
+    }
+    .header_icon svg {
+        color: white;
+        width: 47px;
+    }
+    .header_text p {
+        color: white;
+        font-size: 10px !important;
+      
+    }
+    /* .about_text_box {
+        margin-top: 27px !important;
+    } */
+    /* section.about_section {
+        padding: 33px 0px 0px 0px !important;
+    } */
+    .ab_img.hotel_img {
+        display: none !important;
+    }
+    .rsts.ffrms_ppd {
+        width: 49.3%;
+    }
+    .tdrp_serch {
+        background: #fff;
+    }
+    .fm_ln1 button {
+        width: 100% !important;
+       
+    }
+
+
+ }
+  
+
+@media only screen and (max-width:  820px) {
+    .tdrp_serch {
+        background: #fff;
+    }
+    .fm_ln1 button {
+        width: 100% !important;
+       
+    }
+    .our_references {
+        min-height: 439PX;
+    }
+
+
+    .card_flight_booking {
+        margin-top: 25px;
+        
+}
+
+
+.anim_text {
+    max-width: 100%;
+    width: 88%;
+}
+
+
+
+
+
+}
+
+@media only screen and (max-width:  992px) {
+    .main_ahead_cn {
+
+        margin-bottom: 50px;
+
+    }
+    .map_contact {
+        padding: 50px 0 !important;
+    }
+    section.contact_info {
+        padding: 50px 0px !important;
+    }
+    .contact_form {
+        margin-top: 30px;
+    }
+    .main_class_gateway {
+        padding-right: unset;
+    }
+    section.package_choose_us {
+        padding: 50px 0px;
+    }
+    .affordable_padding{
+        margin-top:30px;
+    }
+    
+    section.package_choose_us {
+        padding: 50px 0px;
+    }
+    .payhotelpadding {
+        padding-right: unset;
+    }
+    section.rental_services {
+        padding: 50px 0;
+    }
+    .low_cost_cnt.text-center {
+        padding: 50px 0px 15px;
+    }
+    section.low_cost_car {
+        padding: 50px 0;
+    }
+    .row.justify-content-center.parapadding_rental {
+        margin-bottom: 50px !important;
+    }
+    .why_to_book_main_heading.text-center {
+        padding: 50px 0 15px;
+    }
+    section.popular_searchs_booked {
+        margin-top: 50px;
+    }
+    .affordable_min_height {
+        min-height: 280px;
+    }
+    .content_para_padding h2 {
+        margin-bottom: 15px !important;
+    }
+    .trip_booking_text.about_text_box.paddingpara.paddingtop_media h2 {
+        margin-bottom: 15px;
+        
+    }
+    .trip_booking_text{
+        max-width: unset;
+    }
+    section.royal-care-hero-section.hotel {
+    padding: 50px 0 70px 0px;
+}
+.royal-care-hotel-deals {
+    margin-top:50px !important;
+    margin-bottom: 80px !important;
+}
+section.whatsup_section {
+    padding: 50px 0px !important;
+}
+section.aboutus_counter {
+    padding: 50px 0 !important; 
+}
+section.aboutus_first_session {
+    padding: 50px 0px !important;
+}
+.book_pay_services {
+    padding: 50px 0 !important;
+}
+.royal-care-hotel-tittle {
+    margin-bottom: 15px !important;
+}
+    .hotel_btn_respo {
+        min-height: 130px;
+    }
+    /* .card_padding_m {
+        min-height: 139px;
+    } */
+    .response_new {
+        margin-bottom: 60px !important;
+    }
+    section.why-exploremyflight {
+        padding: 50px 0;
+    }
+    section.about_section {
+        padding: 50px 0;
+    }
+    section.popular-destions {
+        padding: 50px 0px;
+    }
+    .our_reference_cnt p{
+        margin-bottom:0;
+    }
+    section.popular_services_sec {
+        padding: 50px 0;
+    }
+    section.footer_form {
+        padding: 50px 0px;
+    }
+    .about_text_box h2 {
+        margin-bottom: 15px;
+    }
+    .col-lg-6.col-md-12.col-sm-12.gf img {
+        margin-bottom: 30px;
+    }
+    section.online-hotel-booking-section {
+        padding: 50px 0;
+    }
+    .your-website-sm-tittle h3 {
+        margin-top: 50px !important;
+
+    }
+    section.aboutus_last_section {
+        padding: 50px 0px !important;
+    }
+    .content_para_padding{
+        padding-left: unset;
+    }
+}
+
+@media only screen and (max-width:  768px) {
+/* 
+    .main_ahead_cn {
+
+        margin-bottom: 50px;
+
+    }
+
+    section.royal-care-hero-section.hotel {
+    padding: 50px 0 70px 0px;
+}
+.royal-care-hotel-deals {
+    margin: 50px 0 !important;
+}
+.royal-care-hotel-tittle {
+    margin-bottom: 15px !important;
+}
+    .hotel_btn_respo {
+        min-height: 90px;
+    } */
+    /* .card_padding_m {
+        min-height: 139px;
+    } */
+    /* .response_new {
+        margin-bottom: 60px !important;
+    }
+    section.why-exploremyflight {
+        padding: 50px 0;
+    }
+    section.about_section {
+        padding: 50px 0;
+    } */
+    .aboutus_left {
+        margin-left: unset;
+    }
+    /* section.popular-destions {
+        padding: 50px 0px;
+    } */
+    /* .our_reference_cnt p{
+        margin-bottom:0;
+    }
+    section.popular_services_sec {
+        padding: 50px 0;
+    }
+    section.footer_form {
+        padding: 50px 0px;
+    } */
+    .about_to_responsive .row {
+        flex-direction: column-reverse !important;
+    }
+    /* section.main_header ol, ul {
+        padding-left: 0 !important;
+    } */
+    .footer_box.dfs {
+        padding: 4px 0;
+    }
+    .your-dream-website-section-card-1 {
+        margin-bottom: 0 !important;
+
+    }
+    .tdrp_serch {
+        background: #fff;
+    }
+    .rsts.ffrms_ppd {
+        width: 49.3%;
+    }
+    .airportwidthrespo{
+        width: 100% !important;
+    }
+    .popupbotpadding{
+        display:inline-block;
+        margin-bottom:40px;
+    }
+    .anim_text h1 {
+        font-size: 33px;
+        
+    }
+    section.about_us_banner {
+        padding: 60px 0px !important;
+    }
+    .pasngr_t.ffrms_ppd {
+        width: 100% !important;
+    }
+
+    .header_text p {
+       
+        display: none;
+    }
+    .ab_img.mt-3.about_a img {
+        display: none;
+    }
+    .anim_text {
+        max-width: 100%;
+        width: 100%;
+        text-align: center;
+    }
+    .anim_text h2 {
+        font-size: 24px;
+      
+    }
+    section.banner_flight_page {
+        text-align: center;
+    }
+    .btn_book {
+        margin-top: 40px;
+    }
+    .content_box {
+        margin-top: 21px;
+      
+    }
+    section.online_flight_teckets {
+        padding: 12px 0;
+    }
+    .content_box {
+        margin-bottom: 35px;
+    }
+    .get_box_text h3 {
+     
+        max-width: 100%;
+        width: 100%;
+    }
+    section.round_trip_booking {
+        padding: 0px 0;
+    }
+    .trip_booking_text {
+        max-width: 100%;
+        width: 100%;
+      
+    }
+    .card_flight_booking {
+        margin: 10px;
+    }
+    .get_box_text {
+        margin-left: 11px;
+    }
+    section.banner_flight_page.hone_page {
+        padding: 50px 0 70px 0px;
+    }
+    ul.header_item.icon_heder_p {
+        display: none;
+    }
+    .why_box {
+        box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 2px 6px 2px;
+        padding: 10px;
+        margin: 10px;
+        border-radius: 10px;
+        background: white;
+    }
+    .col-md-3.gf img {
+        padding: 0px 0px 0px 0px;
+       
+    }
+    .ab_img.hotel_img {
+        display: none;
+    }
+    /* section.about_section {
+        padding: 40px 0px 4px;
+    } */
+    .about_text_box {
+        text-align: center;
+        margin-top: 30px;
+    }
+    .paddingtop_media {
+        margin-top: 0;
+    }
+    .get_box_text.unloc h5 {
+        color: white;
+        /* font-size: 15px; */
+        text-align: -webkit-center;
+        margin: 20px;
+    }
+    .btn_book.mt-4 {
+        text-align: center;
+    }
+    .get_box_text.unloc {
+        text-align: center;
+        margin: 12px;
+    }
+/* ///////////////////////////flight_page/////////////////// */
+
+section.banner_flight_page {
+    padding: 50px 0px 70px 0px;
+}
+section.popular_destions_tow {
+    padding: 10px 0;
+}
+section.get_up {
+    padding: 0px 4px 30px;
+}
+.content_box p {
+    text-align: justify;
+}
+.logo_busine svg {
+    width: 52px;
+}
+
+section.footer-section {
+   
+    padding: 45px 0 22px;
+}
+
+.royalcare_banner {
+    background-image: linear-gradient(0deg, rgb(255 165 165 / 10%), rgb(56 0 0 / 99%)), url(/assets/image/Cab_banner.jpg);
+    /* height: 254px !important; */
+   
+}
+
+section.low_cost_car.pt-5.pb-5 {
+    padding: 0px 0 !important;
+}
+
+.our_reference_cnt p {
+    text-align: center !important;
+    padding: 0;
+}
+
+
+.choose-a-type-of-room-doller p {
+    text-align: center !important;
+}
+.royal-care-hero-section-content {
+   
+    padding-top: 70px !important;
+    padding-bottom: 100px !important;
+}
+.royal-care-hotel-text p {
+    text-align: center;
+}
+
+
+.cheap_tour_packages_sec {
+    padding: 65px 0px !important;
+}
+.main_under_flight_card {
+    margin: 10px;
+}
+section.online_Flight_cards {
+    margin: 50px 0;
+
+}
+}
+@media (max-width:567px){
+    a#callnowbutton {
+        display: block;
+      }
+      section.footer-section {
+        padding-bottom: 40px;
+    }
+    ul.ul_list_royal {
+        margin-left: 30px;
+    }
+
+      .main_nwe span {
+        font-size: 22px !important;
+        padding: 20px 10px;
+    }
+    .our_references {
+        min-height: 310px;
+    }
+    section.banner_flight_page.hone_page {
+        padding: 50px 0 70px 0px;
+    }
+    section.why-exploremyflight {
+        padding: 1px 0 10px;
+    }
+    section.popular-destions {
+        padding: 50px 0;
+    }
+    section.footer_form {
+        padding: 50px 0px;
+    }
+    .our_reference_cnt p {
+        padding-bottom: 0 !important;
+    }
+    section.popular_services_sec {
+        padding: 10px 0 50px;
+    }
+    #callnowbutton {
+   
+        height: 42px;
+        padding: 19px 0 49px;
+      
+    }
+    .modal-body {
+        margin-bottom: 60px;
+    }
+    .pasngr_t.ffrms_ppd {
+        width: 100% !important;
+    }
+}
+@media only screen and (max-width: 350px) {
+    .ab_img.hotel_img {
+        display: none !important;
+    }
+    section.main_header ol, ul {
+        padding-left: 0 !important;
+    }
+    .cheap_tour_packages_sec {
+        padding: 65px 0px;
+    }
+}
+
+  @media only screen and (max-width: 550px) {
+    .ab_img.hotel_img {
+        display: none !important;
+    }
+    .cheap_tour_packages_sec {
+        padding: 65px 0px;
+    }
+    .footer_box {
+        text-align: center;
+    }
+    .footer_box h3 {
+        border: 1px solid #fff;
+        background: #ffffff;
+        max-width: 166px;
+        margin: 12px auto;
+        padding: 1px 7px;
+        border-radius: 5px;
+        color: #02275b;
+    }
+    p.ani_royal_subheading {
+        font-size: 20px !important;
+        margin-bottom: 25px;
+        display: block;
+    }
+    section.banner_flight_page h1 {
+        margin-bottom: 5px;
+    }
+    .car_rent_home h1 {
+        margin-bottom: 3px;
+    } 
+    .car_rent_home {
+           padding: 60px 0 !important;
+      }
+      .hotel h1 {
+        margin-bottom: 3px;
+    }
+    section.royal-care-hero-section.hotel {
+        padding: 60px 0;
+    }
+      .anim_text.round h2 {
+        font-size: 31px !important;
+    }
+    .anim_text h1 {
+        font-size: 27px;
+    }
+    section.whatsup_section {
+        padding: 40px 0px;
+    }
+   
+}
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+    h1.aboutus_banner {
+        font-size: 30px;
+        }
+        section.about_us_banner {
+         padding: 59px 0px;
+        }
+    .ab_img.hotel_img {
+        display: none !important;
+    }
+    
+}
+.cheap_tour_packages_sec {
+    padding: 65px 0px;
+}
+
+section.our_reference {
+    padding: 10px 0;
+}
+.row.logo_business_main {
+      display: none;
+}

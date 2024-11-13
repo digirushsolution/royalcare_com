@@ -1,0 +1,354 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+
+
+/* cheap_tour_packages_sec */
+
+.cheap_tour_packages_sec {
+    background-image: linear-gradient(rgb(0 0 0 / 58%), rgb(0 0 0 / 8%)), url('/public/assets/img/cheap_tour_packages_sec_bg.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 210px 0px;
+}
+
+.cheap_tour_packages_hd h1 {
+    margin: 0px;
+    color: #FFFFFF;
+    font-family: "Poppins", Sans-serif;
+    font-size: 42px;
+    font-weight: 800;
+    line-height: 1.2em;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+.availble {
+    border: 1px solid #00000021;
+    padding: 20px;
+    border-radius: 10px;
+    height: 100%;
+}
+.content_para_padding {
+    padding-left: 30px;
+}
+/* cheap_tour_packages_sec */
+
+/* book_holidays_pack */
+
+.book_holidays_pack {
+    padding: 80px 0px;
+}
+.book_holidays_pack_heading h2{
+    margin-bottom: 15px;
+}
+.about_text_box p {
+    margin-bottom: 30px;
+}
+.book_holidays_pack_heading p {
+    max-width: 900px;
+    /* margin: 15px auto 63px; */
+    display: inline-block;
+    margin-bottom: 80px;
+}
+.book_holidays_pack_heading{
+max-width: 942px;
+width: 100%;
+margin: 0px auto;
+text-align: center;
+margin-bottom: 30px;
+}
+.book_holidays_pack_book_btn a button {
+    border: 0px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    background-color: #EBB221;
+    border-radius: 4px 4px 4px 4px;
+    padding: 10px 10px 10px 11px;
+}
+
+.book_holidays_pack_flight_s h4 {
+    font-family: "Roboto", Sans-serif;
+    font-size: 21px;
+    font-weight: 600;
+    margin: 0px;
+}
+
+.book_holidays_pack_cost {
+    display: flex;
+    align-items: baseline;
+    margin-bottom: 5px;
+}
+
+.book_holidays_pack_book_btn a button p {
+    color: white;
+    margin: 0px;
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.book_holidays_pack_book_btn a {
+    text-decoration: none;
+}
+
+.book_holidays_pack_book_btn a button i {
+    color: white;
+    font-size: 16px;
+}
+
+.book_holidays_pack_book_btn a button:hover {
+    background-color: #0348A5;
+    border-color: #E8E8E8;
+}
+
+.book_holidays_pack_info p {
+    line-height: 25px;
+    margin-bottom: 10px;
+    color: #585858;
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.book_holidays_pack_flight_icon i {
+    font-size: 25px;
+    color: #FFB727;
+}
+
+.book_holidays_pack_cost p {
+    font-weight: 700;
+    margin: 0px;
+}
+
+.book_holidays_pack_flight {
+    padding: 3px;
+    border-radius: 5px;
+    box-shadow: rgba(14, 30, 37, 0.12) 0px 2px 4px 0px, rgba(14, 30, 37, 0.32) 0px 2px 16px 0px;
+}
+
+.book_holidays_pack_flight_main {
+    padding: 10px 5px 5px 5px;
+}
+
+.book_holidays_pack_cost h3 {
+    font-weight: 700;
+    margin: 0px;
+}
+
+.book_holidays_pack_flight_ {
+    margin-bottom: 10px;
+}
+
+.book_holidays_pack_flight_img img {
+    width: 100%;
+    height: 100%;
+}
+
+.book_holidays_pack_flight_img {
+    overflow: hidden;
+    height: 220px;
+}
+
+/* .book_holidays_pack_heading {
+    margin-bottom: 35px;
+} */
+
+
+
+
+
+
+/* book_holidays_pack */
+
+/* browse_by_pro_type */
+
+.browse_by_pro_type_sec{
+    padding: 30px 0px;
+}
+
+.browse_by_pro_type h2 {
+    color: #1C1D20;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0px;
+}
+
+.browse_by_pro_type_bg_img1{
+    background-image: linear-gradient(rgb(0 0 0 / 54%), rgb(0 0 0 / 53%)), url(../img/pro_type_related.jpg);
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.browse_by_pro_type_bg_img2{
+    background-image: linear-gradient(rgb(0 0 0 / 54%), rgb(0 0 0 / 53%)), url(../img/pro_type_related1.jpg);
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.browse_by_pro_type_bg_img3{
+    background-image: linear-gradient(rgb(0 0 0 / 54%), rgb(0 0 0 / 53%)), url(../img/pro_type_related2.jpg);
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.browse_by_pro_type_bg_img4{
+    background-image: linear-gradient(rgb(0 0 0 / 54%), rgb(0 0 0 / 53%)), url(../img/pro_type_related3.jpg);
+    height: 200px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.browse_by_pro_type {
+    margin-bottom: 40px;
+}
+
+.browse_by_pro_type_bg_img1 h3 {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.browse_by_pro_type_bg_img2 h3 {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.browse_by_pro_type_bg_img3 h3 {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+.browse_by_pro_type_bg_img4 h3 {
+    color: #ffffff;
+    font-weight: 700;
+}
+
+
+/* browse_by_pro_type */
+
+/* affordable_hotels_packages */
+
+.affordable_hotels_packages h2 {
+    color: #1C1D20;
+    font-size: 30px;
+    font-weight: 700;
+    margin: 0px;
+}
+
+section.affordable_hotels_packages_sec {
+    padding: 70px 0px;
+}
+.affordable_hotels_packages h2 {
+    padding-bottom: 40px;
+}
+.affordable_box_content_main h3 {
+    font-family: "Cabin", Sans-serif;
+    font-size: 21px;
+    margin-top: 20px;
+    font-weight: 600;
+    letter-spacing: 1.5px;
+}
+.icon_date {
+    display: flex;
+    gap: 10px;
+    color: #979EA6;
+    font-weight: 600;
+}
+.features_affordable_price {
+    display: flex;
+    gap: 10px;
+}
+.button_affordable_price button {
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: white;
+    background-color: #ebb221;
+    border: none;
+}
+.affordable_hotels_packages_box {
+    border: 3px solid #DEDADA;
+    padding: 10px;
+    border-radius: 10px;
+}
+.Affordable_Car_Rentals h2 {
+    color: #1C1D20;
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 22px;
+    text-align: center;
+}
+.Affordable_Car_Rentals p {
+    color: #3A3E4A;
+    text-align: center;
+    margin-bottom: 50px;
+}
+section.Affordable_Rentals {
+    /* background-color: #E5E5E5; */
+    padding: 50px 0px;
+}
+.car_pack_info p {
+    color: #585858;
+    text-align: justify;
+}
+.book_holidays_pack_flight {
+    background-color: white;
+    padding-bottom: 20px;
+}
+.choose_us_heading h2 {
+    text-align: center;
+    /* padding: 20px 0px; */
+    margin: 0px;
+    color: #000;
+}
+.choose_us_packages_contnt h3 {
+    color: #FFAB4B;
+    font-family: "Cabin", Sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+}
+.icon_packages_choose_us img {
+    height: 40px;
+}
+.availble {
+    text-align: center;
+}
+section.package_choose_us {
+    padding: 80px 0px;
+}
+.about_img img {
+    width: 100%;
+}
+
+
+.choose_us_heading h2 {
+    text-align: center;
+    padding-bottom: 30px;
+}
+.choose_us_packages_contnt {
+    padding: 20px 0px;
+}
+

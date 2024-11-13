@@ -1,0 +1,1097 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.royal-care-hero-section {
+    background-image: url('/public/assets/Images/hero-section-img.webp');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.royal-care-hero-section-content {
+
+    padding-top: 200px;
+    padding-bottom: 250px;
+}
+
+.royal-care-hero-section-content h2 {
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+}
+
+
+form.form_box_main {
+    background: white;
+    padding: 50px;
+    border-radius: 10px;
+    margin-top: -66px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+
+.payhotelpadding {
+    padding-right: 25px;
+}
+
+.hotel_page_form_ select,
+:focus {
+    color: #111111 !important;
+
+    border: dotted solid #bbbaba !important;
+    outline: none !important;
+    box-shadow: none !important;
+}
+
+
+.hotel_page_form_ select {
+    color: #706f6f !important;
+    background-color: white !important;
+    border-color: #ddd !important;
+    outline: none !important;
+    box-shadow: none !important;
+    height: 51px;
+}
+
+.hotel_input_border  select{
+    border: 1px solid #ddd;
+}
+.hotel_input_border  select {
+    border: 1px solid #ddd;
+}
+
+
+
+
+
+.form-control {
+    display: block;
+    width: 100%;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #798591 !important;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+    margin-bottom: 15px;
+}
+
+.royal-care-hotel-deals {
+    margin: 80px 0;
+}
+
+.royalcareform {
+    margin: 50px 0px;
+}
+
+.royal-care-hotel-tittle {
+    text-align: center;
+}
+.blog_btn_position button{
+    position: absolute;
+    bottom: 15px;
+}
+
+
+.royal-care-hotel-text {
+    text-align: center;
+    text-align: justify;
+}
+
+.royal-care-hotel-tittle.locations_locate {
+    width: 100%;
+    max-width: 790px;
+    margin: 0 auto;
+}
+.royal-care-hotel-text p a {
+    text-decoration: none;
+}
+
+.royal-care-travel-content {
+    border-right: 1px solid gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+input.btn.btn-primary.hgh {
+    width: 100%;
+}
+
+.our-blog {
+    padding-top: 50px;
+    padding-bottom: 25px;
+}
+
+.our-blog-content {
+    margin-bottom: 70px;
+}
+
+.our-blog-content {
+    text-align: center;
+}
+
+.our-blog {
+    background-color: #F5F5F5;
+}
+
+.our-blog-tittle h2 {
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.our-blog-text p {
+    color: #909090;
+    margin-bottom: 50px;
+    font-size: 17px;
+}
+
+.blog-card-img img {
+    object-fit: cover;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    height: 270px;
+    width: 100%;
+}
+
+.blog-card {
+    background-color: white;
+    /* box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px; */
+    border-radius: 10px;
+    margin-bottom: 15px;
+    height: 100%;
+    width: 100%;
+    max-width: 410px;
+    border: 1px solid rgb(0 0 0 / 32%);
+    position: relative;
+}
+
+.blog-card:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.blog-card-tittle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.blog-card-content {
+    padding: 0 18px;
+}
+
+.blog-card-text {
+    text-align: center;
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 15px;
+}
+
+.blog-card-tittle {
+    margin-bottom: 10px;
+    height: 55px;
+}
+
+.blog-card-tittle h3 {
+    font-size: 21px;
+    font-weight: 600;
+    color: #000;
+}
+
+.hotel_page_hoteling h5 {
+    font-size: 21px !important;
+    font-weight: 600;
+    color: #000;
+}
+
+.rating p {
+    color: #000;
+}
+
+.location p {
+    color: #000;
+}
+
+.doller {
+    color: #0348a5;
+}
+
+.blog-card-text {
+    margin-bottom: 15px;
+}
+
+.blog-card-text p {
+    color: #5f5f5f;
+    font-size: 15px;
+}
+
+.blog-card-a {
+    margin-top: 10px;
+}
+
+.blog-card-a button {
+    text-decoration: none;
+    color: #FFAB4B;
+    padding: 7px 5px;
+    background-color: transparent;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    font-weight: 550;
+}
+
+.blog-card-a button span {
+    position: relative;
+    top: 1px;
+}
+
+.blog-card-rating-1 p {
+    color: #EBB221;
+    padding: 0 5px;
+}
+
+.blog-card-rating-1 p span {
+    margin-left: 2px;
+    font-size: 13px;
+    position: relative;
+    top: -2px;
+}
+
+/* .royal-care-hotel-tittle h2 {
+    font-size: 30px;
+    font-weight: 600;
+    color: #000;
+    margin: 0px;
+    margin-bottom:15px;
+} */
+royal-care-hotel-tittle{
+    max-width: 942px;
+    width: 100%;
+    margin: 0px auto;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.royal-care-hotel-text p {
+    color: #4f4f4f;
+    margin-bottom: 30px;
+    text-align: center;
+}
+
+.royal-care-travel-card-1 {
+    background-color: white;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    /* padding-bottom: 15px; */
+    transition: 1s;
+    border-radius: 5px;
+    height:100%;
+    /* margin-bottom: 24px; */
+}
+
+.royal-care-travel-card-1:hover {
+    transform: translateY(-10px);
+}
+
+.royal-card-travel-card-img img {
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-radius: 0 0 0 0;
+    object-fit: cover;
+    width: 100%;
+}
+
+.royal-care-location-name {
+    padding-left: 20px;
+}
+
+.royal-care-location-name h2 {
+    font-size: 21px;
+    margin-top: 10px;
+}
+
+.royal-care-travel-text {
+    padding-left: 20px;
+}
+
+.royal-care-travel-btn {
+    padding-left: 20px;
+}
+
+/* .royal-care-travel-card {
+    margin-bottom: 50px;
+} */
+
+.royal-care-travel-text p {
+    font-size: 17px;
+    color: grey;
+}
+
+.royal-care-travel-btnn button {
+    padding: 9px 25px;
+    border-radius: 5px;
+    border: 0;
+    outline: 0;
+    margin-left: 15px;
+    background-color: #EBB221;
+    color: white;
+    margin-top: 15px;
+    font-weight: 600;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+}
+
+.royal-care-travel-btnn button i {
+    margin-right: 5px;
+}
+
+.royal-care-travel-btnn button:hover {
+    background-color: #0348a5;
+}
+
+.royal-care-travel-bad-rom-1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.royal-care-bad-room-rating img {
+    height: 25px;
+    width: 25px;
+}
+
+.royal-care-bad-room-rating {
+    margin-bottom: 15px;
+}
+
+.royal-care-bad-rom-location {
+    margin-top: 20px;
+    display: flex;
+}
+
+.royal-care-travel-bad-rom-1 {
+    background-color: #C4FEFF4A;
+    padding-left: 25px;
+    padding-right: 20px;
+    border: 1px solid gray;
+    margin-bottom: 100px;
+}
+
+.royal-care-bad-room-img img {
+    height: 252px;
+    width: 350px;
+    padding: 10px;
+}
+
+.royal-care-bad-rom-tittle h3 {
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.royal-care-offer-tittle h4 {
+    font-size: 18px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.royal-care-offer-btn button {
+    margin-top: 10px;
+    padding: 7px 40px;
+    border: 1px solid gray;
+    outline: 0;
+    font-weight: 550;
+    background-color: transparent;
+}
+
+.royal-care-percent-offer-btn button {
+    padding: 7px 30px;
+    margin-top: 30px;
+    margin-left: 25px;
+    border: 1px solid gray;
+    background-color: transparent;
+    border-radius: 5px;
+}
+
+.royal-care-normal-btn button {
+    margin-top: 100px;
+    padding: 10px 40px;
+    margin-left: 100px;
+    border: 1px solid gray;
+    background-color: #EBB221;
+    color: white;
+    font-weight: 600;
+    border-radius: 5px;
+}
+
+.royal-care-normal-btn {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.royal-care-location-text p {
+    font-size: 15px;
+}
+
+.royal-care-bad-rom-location-2 {
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+}
+
+.royal-care-bad-rom-img-2 img {
+    height: 240px;
+    width: 100%;
+}
+
+.royal-care-bad-rom-img-2 {
+    padding: 10px 0;
+}
+
+.royal-img-bad-room-content-2 {
+    text-align: center;
+    text-align: justify;
+    padding: 21px 0px;
+}
+
+.royal-care-bad-rom-tittle-2 h2 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 10px;
+    padding-right: 10px;
+}
+
+.royal-care-bad-rom-rating-star-2 {
+    margin-bottom: 10px;
+}
+
+.fa-star {
+    color: #FFCC00;
+}
+
+.location-icon-2 i {
+    color: #1A7EFB;
+    font-size: 20px;
+}
+
+.location-icon-2 i {
+    color: #6ec1e4;
+}
+
+.royal-care-location-text-2 {
+    margin-left: 5px;
+    font-size: 14px;
+}
+
+.royal-care-bad-room-tittle-offer-2 h4 {
+    font-size: 18px;
+    font-weight: 600;
+    color: #EBB221;
+}
+
+.royal-care-bad-room-btn-2 {
+    display: flex;
+}
+
+.royal-care-bad-room-btn-2 button {
+    width: 100%;
+}
+
+.royal-care-bad-room-btn-2 button {
+    padding: 5px 35px;
+    margin-top: 20px;
+    border: 1px solid gray;
+    background-color: transparent;
+    outline: 0;
+    border-radius: 4px;
+    font-weight: 600;
+}
+
+.royal-care-bad-room-btn-2 button:hover {
+    border: 1px solid #dbbbbbca;
+}
+
+.royal-care-bad-room-2-card {
+    margin-bottom: 25px;
+    background-color: #C4FEFF4A;
+    border: 1px solid rgb(187, 186, 186);
+    border-radius: 5px;
+    text-align: center;
+    text-align: justify;
+}
+
+.royal-care-bad-room-2-card:hover {
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.royal-care-travel-offer-btn-2 button {
+    border: 1px solid gray;
+    height: 34px;
+    background-color: transparent;
+    border-radius: 3px;
+    margin-top: 50px;
+    font-size: 15px;
+    font-weight: 600;
+    width: 100%;
+}
+
+.royal-care-travel-offer-btn-2 {
+    display: flex;
+}
+
+.royal-care-travel-offer-btn-2 button:hover {
+    border: 1px solid #dbbbbbca;
+}
+
+.royal-btn-1 {
+    color: #1a7efb;
+}
+
+.royal-btn-2 {
+    margin-left: 15px;
+    color: #FF4C4CCA;
+}
+
+.royal-care-travel-book-btn-2 {
+    margin-top: 50px;
+    text-align: center;
+    padding-bottom: 25px;
+}
+
+.royal-care-travel-book-btn-2 button {
+    padding: 7px 25px;
+    border-radius: 5px;
+    border: 0;
+    outline: 0;
+    background-color: #EBB221;
+    color: white;
+    font-weight: 600;
+}
+
+.royal-care-travel-book-btn-2 button:hover {
+    background-color: #0348a5;
+}
+
+.royal-care-btn-box {
+    text-align: center;
+    text-align: justify;
+}
+
+.wifi {
+    margin-left: 15px;
+}
+
+.royal-care-travel-book-btn-card-3 button {
+    padding: 7px 25px;
+    border-radius: 5px;
+    border: 0;
+    outline: 0;
+    background-color: #EBB221;
+    color: white;
+    font-weight: 600;
+    margin-top: 50px;
+}
+
+.royal-care-travel-book-btn-card-3 button:hover {
+    background-color: #0348a5;
+}
+
+.royal-img-bad-room-content-2 {
+    border-right: 1px solid rgb(187, 186, 186);
+    padding-right: 10px;
+}
+
+.rating_location {
+    display: flex;
+    justify-content: space-between;
+    color: #000;
+}
+
+.rating_location .rating p {
+    margin-bottom: 0 !important;
+}
+
+.rating_location .location i {
+    color: #FF9800;
+    margin-right: 3px;
+}
+
+.rating i {
+    color: #FF9800;
+    margin-right: 6px;
+}
+
+@media screen and (max-width: 1199px) {
+    .royal-img-bad-room-content-2 {
+        border-right: none;
+    }
+}
+
+.royal-care-card-3 {
+    background-color: #e3eff8;
+}
+
+.online-hotel-booking-section-img img {
+    object-fit: cover;
+}
+
+.online-hotel-booking-section-img {
+    text-align: center;
+}
+
+.online-hotel-booking-section-tittle h2 {
+    font-weight: 600;
+    font-size: 28px;
+    margin-bottom: 15px;
+    color: #000;
+}
+
+.choose-a-type-of-room-content {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.choose-a-type-of-room-content h2 {
+    font-weight: 600;
+}
+
+.Your-Dream-Website-section {
+    padding: 80px 0;
+    background-image: url('/public/assets/Images/back-img-1.jpg');
+}
+
+.your-dream-website-section-tittle h2 {
+    font-size: 27px;
+    font-family: Nunito, sans-serif;
+    font-weight: 600;
+    color: #000;
+}
+
+.your-website-sm-tittle h3 {
+    margin-top: 25px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    color: #1a7efb;
+    font-weight: 600;
+}
+.new_css_main .main_text h3 {
+    font-size: 22px;
+    font-weight: 700;
+    margin-top: 16px;
+    margin-bottom: 15px;
+    color: #000;
+}
+.your-dream-website-section-tittle h2 span {
+    color: #29D9C2;
+}
+
+.your-dream-website-section-text p {
+    font-size: 15px;
+    font-weight: 540;
+    margin-top: 13px;
+    margin-bottom: 15px;
+}
+
+.your-dream-website-section-text {
+    text-align: center;
+    text-align: justify;
+}
+
+.your-dream-website-content {
+    letter-spacing: 1px;
+}
+
+.your-dream-website-section-btn button {
+    padding: 15px 40px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    background-color: #EBB221;
+    color: white;
+    font-size: 17px;
+    font-weight: 600;
+    transition: 1s;
+    margin-top: 15px;
+}
+
+.your-dream-website-section-btn button:hover {
+    background-color: #1a7efb;
+    color: white;
+}
+
+.your-dream-website-section-card {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.your-dream-website-section-card-1 {
+    padding-top: 25px;
+    padding-bottom: 15px;
+    padding-left: 0px;
+    box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
+    background-color: white;
+}
+
+.your-dream-website-section-card-1 h2 {
+    font-size: 20px;
+    font-weight: 550;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    color: #000;
+}
+.your-dream-website-section-card-1 span {
+    font-size: 20px;
+    font-weight: 550;
+    margin-bottom: 13px;
+    color: #000;
+    display: inline-block;
+    margin-top: 20px;
+}
+.flxxx {
+    display: grid;
+}
+.your-dream-website-section-card-1 p {
+    padding: 0 15px;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.your-dream-website-section-card-1 {
+    margin-bottom: 25px;
+    border-radius: 10px;
+    min-height: 235px;
+}
+
+.owl-theme .owl-dots {
+    display: none;
+}
+
+.royal-icon {
+    font-size: 30px;
+    color: #EBB221;
+}
+
+.choose-a-type-of-room-list ul {
+    padding: 0;
+}
+
+.choose-a-type-of-room-list ul li {
+    list-style: none;
+    margin-bottom: 20px;
+    border-bottom: 1px dotted gray;
+    padding-bottom: 5px;
+    margin-top: 10px;
+    color: rgb(58, 56, 56);
+}
+
+.choose-a-type-of-room-card {
+    text-align: center;
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    transition: 1s;
+    margin-bottom: 20px;
+}
+
+.choose-a-type-of-room-card:hover {
+    transform: scale(1.01);
+}
+
+.choose-a-type-of-room {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.fa-bed {
+    color: #1a7efb;
+    font-size: 50px;
+}
+
+.choose-a-type-of-room-tittle h2 {
+    font-size: 25px;
+    font-weight: 600;
+    margin-bottom: 15px;
+}
+
+.choose-a-type-of-room-doller {
+    background-color: #0348A5;
+    color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.choose-a-type-of-room-doller p {
+    font-size: 25px;
+    color: white;
+}
+
+.choose-a-type-of-room-doller p span {
+    font-size: 40px;
+}
+
+.choose-a-type-of-room-doller p span sub {
+    font-size: 15px;
+}
+
+.choose-a-type-of-room-list ul li i {
+    color: #61CE70;
+}
+
+.choose-a-type-of-room-type-btn button {
+    padding: 9px 35px;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    background-color: #EBB221;
+    color: white;
+    font-weight: 600;
+    margin-top: 20px;
+}
+
+.choose-a-type-of-room-type-btn button:hover {
+    background-color: #0348A5;
+}
+
+.choose-a-type-of-room-per p {
+    margin-left: 80%;
+    font-weight: 600;
+    font-size: 20px;
+    background-color: red;
+    color: white;
+    border-radius: 5px;
+}
+
+.choose-a-type-of-room-icon {
+    margin-bottom: 15px;
+}
+
+.choose-a-type-of-room-content p {
+    color: #0348A5;
+    font-weight: 600;
+}
+
+.explore-the-world {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.72)), url('/public/assets/Images/back-img-2.webp') !important;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.explore-the-world {
+    padding: 80px 0px;
+}
+
+.explore-the-world-tittle p {
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.explore-the-world-heading h3 {
+    color: white;
+    font-weight: 600;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.explore-the-world-text p {
+    color: white;
+}
+
+.explore-the-world-butn button {
+    padding: 12px 40px;
+    border: 0;
+    outline: 0;
+    border-radius: 5px;
+    color: white;
+    font-weight: 600;
+    background-color: #EBB221;
+    margin-top: 25px;
+    margin-bottom: 15px;
+}
+
+.explore-the-world-butn button:hover {
+    background-color: #0348A5;
+}
+
+.explore-the-world-img img {
+    height: 400px;
+    width: 600px;
+    border: 10px solid gray;
+}
+
+.Our-References-card-img img {
+    height: 80px;
+    border-radius: 50%;
+    width: 80px !important;
+    object-fit: cover;
+}
+
+.Our-References-card {
+    box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+    padding: 30px;
+    border: 1px solid rgb(199, 197, 197);
+    border-radius: 10px;
+    background-color: white;
+}
+.usa_form_flight{
+    /* height: 46px !important; */
+    border-radius: 7px 0px 0px 7px !important; 
+    padding: 7px 0px 6px 12px !important;
+    height: 51px !important;
+    font-size:14px !important;
+   }
+input.form1_date {
+    border: 1px solid #c5c5c5;
+    border-radius: 7px;
+    font-size: 12px;
+    color: #798591;
+    height: 51px;
+}
+.bookcar_mt {
+    margin-top: 15px !important;
+}
+.bookcar_btn {
+    margin-top: 30px !important;
+}
+.client-name h2 {
+    font-size: 19px;
+    font-weight: 500;
+    margin-top: 15px;
+}
+
+.client-name p {
+    color: gray;
+}
+
+.our-referance-rating {
+    margin-bottom: 10px;
+}
+
+.Our-References-tittle {
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.Our-References-tittle p {
+    color: #0348A5;
+}
+
+.Our-References-tittle h2 {
+    font-weight: 600;
+    font-size: 27px;
+}
+
+.Our-References {
+    padding-top: 80px;
+    padding-bottom: 50px;
+
+}
+
+.get-special-airline {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.60), rgba(0, 0, 0, 0.72)), url('/public/assets/Images/back-img-4.jpg') !important;
+    color: white;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 80px;
+    padding-bottom: 50px;
+}
+
+.get-special-airline-tittle h2 {
+    font-weight: 600;
+}
+
+.get-special-airline-text p {
+    color: white !important;
+}
+
+.get-special-airline-form-input {
+    display: flex;
+
+}
+
+.get-special-airline-form-input input {
+    padding-right: 100px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    width: 100%;
+    border: 0;
+    outline: 0;
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+}
+
+.get-special-airline-form-input button {
+    padding: 15px 35px;
+    border: 0;
+    outline: 0;
+    position: relative;
+    right: 3px;
+    border-top-right-radius: 7px;
+    border-bottom-right-radius: 7px;
+    background-color: #EBB221;
+    color: white;
+    font-weight: 600;
+}
+
+.get-special-airline-form-input button:hover {
+    background-color: #0348A5;
+}
+
+.get-special-airline-form-input {
+    text-align: center;
+}
+
+.get-special-airline-content h2 {
+    letter-spacing: 0px;
+    font-size: 30px;
+}
+.offers_get_hh h6 {
+    letter-spacing: 0px;
+    font-size: 30px;
+}
+
+@media (max-width: 767px) {
+    .explore-the-world {
+        padding: 50px 0;
+    }
+
+    .Your-Dream-Website-section {
+        padding: 0px 0;
+    }
+
+    .royal-care-travel-offer-btn-2 button {
+        margin-top: 10px;
+    }
+
+    .royal-care-travel-book-btn-card-3 button {
+        margin-top: 30px;
+    }
+
+    .px-2 {
+        padding-right: .0rem !;
+        padding-left: .0rem !important;
+    }
+
+}
+@media only screen and (max-width: 991px) {
+    .explore-the-world-img img {
+        width: unset;
+    }
+    .blog-card {
+        max-width: unset;
+    }
+}
+@media only screen and (max-width: 576px){
+    section.royal-care-travel-card {
+        padding: 30px 0;
+    }
+}

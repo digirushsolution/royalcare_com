@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<url>
+  <loc>https://royalcaretravels.com/</loc>
+  <lastmod>2024-07-22T12:20:17+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://royalcaretravels.com/last-minute-flights-booking-deals</loc>
+  <lastmod>2024-07-22T12:20:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://royalcaretravels.com/cheap-hotels-booking</loc>
+  <lastmod>2024-07-20T14:00:00+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://royalcaretravels.com/cheap-car-rental-deals</loc>
+  <lastmod>2024-07-22T12:20:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://royalcaretravels.com/tour-and-travel-packages</loc>
+  <lastmod>2024-07-22T12:20:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://royalcaretravels.com/about</loc>
+  <lastmod>2024-07-22T12:20:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://royalcaretravels.com/contact</loc>
+  <lastmod>2024-07-22T12:20:17+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+    @foreach ($blogs as $blog)
+        <url>
+            <loc>{{ url("/") }}/blogs/{{ $blog->slug }}</loc>
+            <lastmod>{{ $blog->created_at->tz("UTC")->toAtomString() }}</lastmod>
+            <changefreq>daily</changefreq>
+            <priority>0.80</priority>
+        </url>
+    @endforeach
+</urlset>

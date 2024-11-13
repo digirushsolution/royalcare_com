@@ -1,0 +1,279 @@
+.h1,h2,h3,h4,h5,p {
+    font-family: "Cabin", Sans-serif;
+}
+section.about_us_banner {
+    background-image: linear-gradient(rgb(0 0 0 / 58%), rgb(0 0 0 / 8%)), url('/public/assets/img/about_banner.jpg');
+    padding: 150px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+/* section.about_us_banner {
+    background-image: linear-gradient(rgb(0 0 0 / 58%), rgb(0 0 0 / 8%)), url('/public/assets/img/about_banner.jpg');
+    padding: 150px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+} */
+.contact_banner_royal{
+    background-image: linear-gradient(rgb(0 0 0 / 58%), rgb(0 0 0 / 8%)), url('/public/assets/img/contact_flightbanner.png') !important;
+    padding: 150px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+h1.aboutus_banner {
+    color: white;
+    font-size: 40px;
+    font-weight: 700;
+}
+.icon_list i {
+    padding-top: 5px;
+    font-size: 20px;
+}
+.your_gateway_list {
+    display: flex;
+    gap: 10px;
+}
+.txt_list {
+    font-size: 16px;
+    font-weight: 600;
+}
+section.aboutus_first_session {
+    padding: 80px 0px;
+    background-image: url('/public/assets/img/about-bg.png');
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+.gateway_image1 img {
+    border-radius: 10px;
+}
+.gateway_image2 img {
+    border-radius: 10px;
+}
+.counter-container {
+    border: 1px solid #003589f2;
+    background-color: #003589f2;
+    border-radius: 10px;
+}
+.counter-container span {
+    padding-bottom: 10px;
+    color: #fff;
+}
+.whatsup_heading.text-center h2 {
+    margin-bottom: 15px;
+    font-weight: 600;
+    font-size: 28px;
+    color: #000;
+}
+.map_contact {
+    padding: 80px 0;
+}
+.whatsup_heading.text-center {
+    margin-bottom: 30px;
+}
+section.aboutus_counter {
+    background-color: #FFCC39;
+    padding: 80px 0px;
+}
+section.whatsup_section {
+    padding: 80px 0px;
+}
+.about_icon_ {
+    text-align: center;
+    font-size: 40px;
+}
+.about_icon_content h3 {
+    font-size: 20px;
+    color: #000;
+}
+.about_icon_content {
+    text-align: center;
+}
+.whatsup_heading.text-center p {
+    color: #4f4f4f;
+    margin: 0;
+}
+div#count-aboutus:after {
+    content: "+";
+}
+.about_box {
+    border: 1px solid #11182724;
+    border-radius: 10px;
+    padding: 20px;
+    height: 100%;
+}
+.about_box:hover {
+    background-color: #f8ffcbf2;
+}
+section.aboutus_last_section {
+    background-image: linear-gradient(rgb(0 0 0 / 58%), rgb(0 0 0 / 8%)), url('/public/assets/img/pexels-photo.jpeg');
+    padding: 80px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+input#gsearch {
+    padding: 11px 20px;
+    width: 50%;
+    border: none;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+button.button_about_us a {
+    color: white;
+    text-decoration: none;
+}
+button.button_about_us {
+    margin-left: -5px;
+    border: #ffc51c;
+    padding: 11px 20px;
+    background-color: #ffc51c;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;    
+}
+.your_gateway h2 {
+    margin-bottom: 15px;
+    font-weight: 600;
+    font-size: 28px;
+    color: #000;
+}
+.your_gateway p {
+    color: #4f4f4f;
+    font-size: 15px;
+    font-family: "Cabin", Sans-serif;
+    font-weight: 500;
+}
+.get_special p {
+    color: white;
+}
+.get_special h2 {
+    color: white;
+}
+.contact_icon i {
+    font-size: 35px;
+    margin-bottom: 20px;
+}
+.mail_contact h3 {
+    font-size: 23px;
+}
+.mail_contact p {
+    color: #777777;
+}
+
+/*/ start count stats /*/
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto+Mono&display=swap");
+.counter-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+}
+.counter {
+    font-size: 60px;
+    color: white;
+}
+@media (max-width: 680px) {
+    body {
+        flex-direction: column;
+    }
+}
+/*/ end count stats /*/
+
+/* CONTACT START */
+section.contact_info {
+    padding: 80px 0px;
+}
+.contact_info_box {
+    text-align: center;
+    border: 1px solid #E4E4E4;
+    border-radius: 15px;
+    padding: 20px;
+    height: 100%;
+    background-color: #E4E4E4;
+}
+.getintouch_left h2 {
+    margin-bottom: 15px;
+    font-weight: 600;
+    font-size: 28px;
+    color: #000;
+}
+.getintouch_left p {
+    margin: 0;
+}
+.getintouch_left {
+    margin-bottom: 30px;
+}
+section.get_in_touch_contact {
+    /* padding: 30px 0px; */
+    background-image: url('/public/assets/img/about-bg.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+}
+textarea#subject {
+    width: 100%;
+    height: 100px;
+}
+.map_contact iframe {
+    width: 100%;
+}
+
+/* CONTACT END */
+
+
+/* privacy policy */
+
+h1.heading_privacy-policy {
+    font-weight: 600;
+    font-size: 32px;
+    padding-bottom: 10px;
+}
+section.privacy-policy {
+    padding: 30px 0px;
+}
+.main_privacy-policy h3 {
+    padding-bottom: 10px;
+    font-weight: 600;
+}
+.main_privacy-policy p {
+    padding-bottom: 10px;
+}
+/* privacy policy end */
+
+/* refund policy */
+.refund_banner{
+background-image: linear-gradient(rgb(0 0 0 / 58%), rgb(0 0 0 / 8%)), url('/public/assets/img/2.jpg');
+padding: 150px 0px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+}
+h1.refund_banner_heading {
+    text-align: center;
+    color: white;
+}
+h2.terms-refund_heading {
+    font-size: 35px;
+    font-weight: 600;
+    padding: 20px 0px;
+}
+.refund_page h2 {
+    font-size: 23px;
+    font-weight: 600;
+    padding-bottom: 10px;
+
+}
+.refund_page p {
+    padding-bottom: 10px;
+}
+.termsandconditions_banner{
+background-image: linear-gradient(rgb(0 0 0 / 58%), rgb(0 0 0 / 8%)), url('/public/assets/img/2.jpg');
+padding: 150px 0px;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center center;
+}
